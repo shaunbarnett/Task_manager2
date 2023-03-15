@@ -1,0 +1,12 @@
+admin, adm1n
+susan, dog
+john, cat
+bill, pig
+anne, rat
+shaun, lion
+carl, fish
+jill, duck
+susan, dog
+jim, bee
+jack, ant
+alice, bull

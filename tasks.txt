@@ -1,0 +1,6 @@
+shaun, driving, driving to the airport, 10 Nov 2023, 24 Jan 2023, Yes
+admin, Register Users with taskManager.py, Use taskManager.py to add the usernames and passwords for all team members that will be using this program., 10 Oct 2019, 20 Oct 2019, No
+admin, Assign initial tasks, Use taskManager.py to assign each team member with appropriate tasks, 10 Oct 2019, 25 Oct 2019, No
+shaun, gardening, trimming the hedges, 10 Oct 2022, 25 Oct 2021, Yes
+susan, cooking, cooking in the school kitchen, 10 Oct 2021, 02 Apr 2021, No
+bill, painting, painting the church, 10 Oct 2023, 20 Jan 2023, Yes
